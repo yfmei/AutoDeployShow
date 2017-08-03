@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AutoDeployShow:war">
+    <output-path>$PROJECT_DIR$/../AutoDeployShow/target</output-path>
+    <root id="archive" name="AutoDeployShow-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="AutoDeployShow:war exploded" />
+    </root>
+  </artifact>
+</component>
